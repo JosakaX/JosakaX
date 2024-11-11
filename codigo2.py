@@ -1,3 +1,0 @@
-variable = "Jorge"
-
-print(variable)
