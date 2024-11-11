@@ -1,4 +1,4 @@
-nombre = "Josaka X"
+nombre = "Josaka"
 apellido = "X"
 edad = 33
 
