@@ -1,4 +1,4 @@
-a = 5
+a = 1
 b = 2
 
 def add_numbers(a, b):
